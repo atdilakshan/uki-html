@@ -1,0 +1,35 @@
+table, td, th{
+    border: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table th{
+    background-color: #218EF7;
+}
+
+.time{
+    background-color: #6693EB;
+}
+
+.yoka{
+    background-color: #87CEE6;
+}
+
+.personal{
+    background-color: #FED849;
+}
+
+.programming{
+    background-color: #9470DC;
+}
+
+.english{
+    background-color: #F87D76;
+}
+
+.ted{
+    background-color: #D4A43C;
+}

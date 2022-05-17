@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+form{
+    width: 55%;
+    margin: 0 auto;
+}
+
+fieldset{
+    background-color: lightblue;
+}
+
+form legend{
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+}
+
+td{
+    padding: 20px 0;
+}
